@@ -139,7 +139,7 @@
 - [xwhyc-rules](https://github.com/adbyby/xwhyc-rules) - adbyby规则
 - [K2](https://github.com/mayunbaba2/K2) - 斐讯K2官改搬运
 - [k2-firmware](https://github.com/moonjoin/k2-firmware) - 斐讯K2刷机，固件，breed
-- [lede-project/source](https://github.com/lede-project/source) - https://git.lede-project.org/?p=source.git的镜像请根据此树发送您的PR。它们将通过临时树合并，并在暂存树合并回source.git后出现在此树中
+- [lede-project/source](https://github.com/lede-project/source) - OpenWrt Linux发行版的构建系统。
 - [openwrt-shadowsocks](https://github.com/shadowsocks/openwrt-shadowsocks) - Shadowsocks-libev for OpenWrt/LEDE
 
 
@@ -250,7 +250,7 @@
 - [html2text](https://github.com/Alir3z4/html2text) - 将HTML转换为Markdown格式的文本。
 - [html2text](https://github.com/aaronsw/html2text) - 将HTML转换为Markdown格式的文本。
 - [tomd](https://github.com/gaojiuli/tomd) - 将HTML转换为Markdown。
-- [ProxyPool](https://github.com/willwinworld/ProxyPool) - 爬取http://cn-proxy.com/网站，测速，提供接口，存数据库
+- [ProxyPool](https://github.com/willwinworld/ProxyPool) - 爬取 http://cn-proxy.com/ 网站，测速，提供接口，存数据库
 - [PythonExercises](https://github.com/greyli/PythonExercises) - 按照难度排列的经典 Python 练习题。
 - [jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [superl-url](https://github.com/super-l/superl-url) - 根据关键词，对搜索引擎内容检索结果的网址内容进行采集的一款轻量级软程序。 程序主要运用于安全渗透测试项目，以及批量评估各类CMS系统0DAY的影响程度，同时也是批量采集自己获取感兴趣的网站的一个小程序~~ 可自动从搜索引擎采集相关网站的真实地址与标题等信息，可保存为文件，自动去除重复URL。同时，也可以自定义忽略多条域名等。
