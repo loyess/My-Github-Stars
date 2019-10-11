@@ -9,8 +9,10 @@
 - [Java系列](#Java系列)
 - [Kotlin系列](#Kotlin系列)
 - [Golang系列](#Golang系列)
+- [AI系列](#AI系列)
 - [Python系列](#Python系列)
 - [JavaScript系列](#JavaScript系列)
+- [PHP系列](#PHP系列)
 - [Regex系列](#Regex系列)
 - [DB系列](#DB系列)
 - [kivy系列](#kivy系列)
@@ -51,6 +53,7 @@
 - [notes](https://github.com/erasin/notes) - 文章整理和经验积累，多数是摘抄网络资源。
 - [my-review](https://github.com/Zeb-D/my-review) - 主要存放平时理论学习，比如java jdk源码分析、并发理论；面试、数据库、Linux、中间件、分布式、网络协议等方向
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
+- [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 
 
 
@@ -90,6 +93,8 @@
 - [simple-obfs](https://github.com/shadowsocks/simple-obfs) - 一个简单的混淆工具（已弃用）
 - [kcptun](https://github.com/xtaci/kcptun) - 基于KCP的稳定安全隧道，N：M复用和FEC。适用于ARM，MIPS，386和AMD64
 - [Cloak](https://github.com/cbeuw/Cloak) - 一种通用可插拔传输，利用TLS域前端和多路复用来逃避深度数据包检测和主动探测
+- [ShadowsocksGostPlugin](https://github.com/xausky/ShadowsocksGostPlugin) - Gost 的 Shadowsocks 安卓插件，可以直接在Shadowsocks安卓客户端上连接 Gost 服务器
+- [goproxy-ss-plugin-android](https://github.com/snail007/goproxy-ss-plugin-android) - ss goproxy安卓插件
 - [SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 - [trojan](https://github.com/trojan-gfw/trojan) - 一种无法识别的机制，可以帮助您绕过GFW。
 - [SSRR-Windows](https://github.com/Anankke/SSRR-Windows) - 希望你知道这意味着什么。
@@ -117,6 +122,8 @@
 - [shadowsocks-rss](https://github.com/shadowsocksr-backup/shadowsocks-rss) - ShadowsocksR更新rss，SSR组织
 - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - 快速轻松地管理和切换多个代理。
 - [shadowsocksr](https://github.com/ssrarchive/shadowsocksr) - Python版本的ShadowsocksR
+- [Linux-NetSpeed](https://github.com/chiakge/Linux-NetSpeed) - 将Linux现常用的网络加速集成在一起
+- [electron-ssr-backup](https://github.com/qingshuisiyuan/electron-ssr-backup) - electron-ssr原作者删除了这个伟大的项目，故备份了下来，不继续开发,且用且珍惜
 
 
 
@@ -147,6 +154,7 @@
 ### Java系列
 
 - [Java-Notes](https://github.com/DuHouAn/Java-Notes) - ☕️ Java 基础 👫 面向对象思想✏️ 算法 📝 操作系统 ☁️ 网络 💾 数据库 🙊 Spring 💡 系统架构🐘大数据
+- [SearchByImage](https://github.com/RikkaW/SearchByImage) - 简单的应用程序，可以帮助您将图像文件上传到搜索引擎。
 - [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub是Android的终极GitHub客户端。
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - 适用于Android的自由轻量级流媒体前端(Youtube第三方安卓客户端)。
@@ -185,6 +193,22 @@
 - [tg_channel_bot](https://github.com/ihciah/tg_channel_bot) - 获取并推送到 telegram 频道/用户/组！
 - [cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️一个自托管的远程torrent客户端
 - [rclone](https://github.com/rclone/rclone) - “用于云存储的rsync” - Google Drive，Amazon Drive，S3，Dropbox，Backblaze B2，One Drive，Swift，Hubic，Cloudfiles，Google云端存储，Yandex文件
+- [starcharts](https://github.com/caarlos0/starcharts) - 绘制随时间变化的repository stars。
+- [gost](https://github.com/ginuerzh/gost) - 用golang编写的简单隧道
+- [proxy_admin_free](https://github.com/snail007/proxy_admin_free) - goproxy的强大Web控制台。
+- [goproxy-heroku](https://github.com/snail007/goproxy-heroku) - goproxy heroku 一键部署套装，把heroku变为免费的http(s)\socks5代理，搜索学习资料。
+- [clash](https://github.com/Dreamacro/clash) - Go中基于规则的隧道。
+
+
+
+### AI系列
+
+- [pytorch](https://github.com/pytorch/pytorch) - 具有强大GPU加速功能的Python中的张量和动态神经网络
+- [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow-专用资源的精选列表
+- [tensorflow](https://github.com/tensorflow/tensorflow) - 面向所有人的开源机器学习框架
+- [tensorflow](https://github.com/yao62995/tensorflow) - 图解tensorflow 源码
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow教程和初学者示例（支持TF v1和v2）
+- [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) - 谷歌全新开源人工智能系统TensorFlow官方文档中文版
 
 
 
@@ -255,6 +279,9 @@
 - [retry](https://github.com/invl/retry) - 易于使用python中的重试装饰器
 - [tqdm](https://github.com/tqdm/tqdm) - 适用于Python和CLI的快速，可扩展的进度条
 - [weibospider](https://github.com/SpiderClub/weibospider) - ⚡️用于微博的分布式爬虫，用芹菜和请求构建。
+- [pytest](https://github.com/pytest-dev/pytest) - Pytest框架使编写小型测试变得容易，但可以扩展以支持复杂的功能测试
+- [flaky](https://github.com/box/flaky) - 用于 nose 或 pytest 的插件，可自动重新运行片状测试
+- [proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
 
 
 
@@ -284,6 +311,13 @@
 - [plyr](https://github.com/sampotts/plyr) - 一个简单的HTML5，YouTube和Vimeo播放器
 - [DPlayer](https://github.com/MoePlayer/DPlayer) - 哇，这么可爱的HTML5 danmaku视频播放器
 - [Find-Jav-bot](https://github.com/nrop19/Find-Jav-bot) - Telegram 番号机器人 源码
+- [whistle](https://github.com/avwo/whistle) - HTTP，HTTPS，WebSocket调试代理
+
+
+
+### PHP系列
+
+- [Cloudflare-CNAME-Setup](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) - Cloudflare合作伙伴小组
 
 
 
